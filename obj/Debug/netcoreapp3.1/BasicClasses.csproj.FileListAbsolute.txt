@@ -1,0 +1,12 @@
+/Users/johnmartin/Documents/TrueCoders/repos/BasicClasses/BasicClasses/bin/Debug/netcoreapp3.1/BasicClasses.deps.json
+/Users/johnmartin/Documents/TrueCoders/repos/BasicClasses/BasicClasses/bin/Debug/netcoreapp3.1/BasicClasses.runtimeconfig.json
+/Users/johnmartin/Documents/TrueCoders/repos/BasicClasses/BasicClasses/bin/Debug/netcoreapp3.1/BasicClasses.runtimeconfig.dev.json
+/Users/johnmartin/Documents/TrueCoders/repos/BasicClasses/BasicClasses/bin/Debug/netcoreapp3.1/BasicClasses.dll
+/Users/johnmartin/Documents/TrueCoders/repos/BasicClasses/BasicClasses/bin/Debug/netcoreapp3.1/BasicClasses.pdb
+/Users/johnmartin/Documents/TrueCoders/repos/BasicClasses/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.csprojAssemblyReference.cache
+/Users/johnmartin/Documents/TrueCoders/repos/BasicClasses/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.AssemblyInfoInputs.cache
+/Users/johnmartin/Documents/TrueCoders/repos/BasicClasses/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.AssemblyInfo.cs
+/Users/johnmartin/Documents/TrueCoders/repos/BasicClasses/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.csproj.CoreCompileInputs.cache
+/Users/johnmartin/Documents/TrueCoders/repos/BasicClasses/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.dll
+/Users/johnmartin/Documents/TrueCoders/repos/BasicClasses/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.pdb
+/Users/johnmartin/Documents/TrueCoders/repos/BasicClasses/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.genruntimeconfig.cache
